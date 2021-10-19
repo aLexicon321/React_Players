@@ -1,0 +1,22 @@
+const allPlayers = [{
+    id: 1,
+    name: "Leo Messi",
+    imageURL: "https://api.sofascore.com/api/v1/player/12994/image"
+},
+{
+    id: 2,
+    name: "Frenkie de Jong",
+    imageURL: "https://api.sofascore.com/api/v1/player/795222/image"
+},
+{
+    id: 3,
+    name: "Philippe Coutinho",
+    imageURL: "https://api.sofascore.com/api/v1/player/119159/image"
+},
+{
+    id: 4,
+    name: "Gerard Piqué",
+    imageURL: "https://api.sofascore.com/api/v1/player/770/image"
+}];
+
+window.players = allPlayers;
