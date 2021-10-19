@@ -1,0 +1,13 @@
+*{
+    color: white;
+    text-align: center;
+    font-family: Consolas;
+    background-color: rgb(61, 61, 61);
+}
+input{
+    font-size: 1.2em;
+}
+img{
+    border-radius: 10%;
+    border: 5px dotted white;
+}
